@@ -99,7 +99,3 @@ image_with_boxes = draw_boxes(image, prediction, threshold=0.5)
 
 * Ren, S., He, K., Girshick, R., & Sun, J. (2015). *Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks*. IEEE Transactions on Pattern Analysis and Machine Intelligence.
 * PyTorch Documentation: [https://pytorch.org/vision/stable/models.html](https://pytorch.org/vision/stable/models.html)
-
-
-Se você quiser, posso também gerar uma versão **mais enxuta e direta**, ideal para GitHub, que fique com menos texto e mais prática para usuários copiarem e testarem rapidamente. Quer que eu faça?
-```
